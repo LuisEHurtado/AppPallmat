@@ -1,6 +1,8 @@
 {
   "name": "AppPallmat",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "ab9326c4"
 }
